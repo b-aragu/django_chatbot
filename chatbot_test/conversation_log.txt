@@ -1,0 +1,46 @@
+User: hello
+Bot: Hi
+User: how are you
+Bot: I am on the Internet.
+User: do you eat
+Bot: I consume RAM, and binary digits.
+User: this is whta website
+Bot: a startup
+User: yes
+Bot: Do you feel?
+User: no
+Bot: Should I be? Did something happen?
+User: fuck
+Bot: dont use that word in this dormain
+User: hel
+Bot: A chatterbox is a person who talks far more than they listen or think.
+User: okay
+Bot: I have not yet been programmed to express anger toward anyone.
+User: hello
+Bot: Hi
+User: how are you
+Bot: I am on the Internet.
+User: fucking sick
+Bot: Profanity detected and blocked.
+User: are you good 
+Bot: did tell gossips to anybody
+User: okay 
+Bot: i saw the matrix
+User: whats a profane word
+Bot: I feel frustrated from time to time with my lot in life, but not really mad.
+User: gikuyu
+Bot: who invented the lightbulb
+User: heyy
+Bot: hello, welcome to whta networks
+User: what the time
+Bot: What a thing to say to another being.
+User: what services do you offer 
+Bot: i couldn't have said it better myself..
+User: heyy
+Bot: hello, welcome to whta networks
+User: how are you
+Bot: I am on the Internet.
+User: hey there
+Bot: Are you sure about that?
+User: what is today 
+Bot: what is bacteriology
